@@ -1,3 +1,5 @@
 # SimpliGit
 
-First commit 
+First commit
+
+Second commit
